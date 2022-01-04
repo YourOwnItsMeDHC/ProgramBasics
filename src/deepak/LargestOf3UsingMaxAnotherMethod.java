@@ -2,7 +2,7 @@ package deepak;
 
 import java.util.Scanner;
 
-public class LarestOf3UsingMaxAnotherMethod {
+public class LargestOf3UsingMaxAnotherMethod {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
