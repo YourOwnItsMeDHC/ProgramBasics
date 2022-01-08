@@ -6,7 +6,7 @@ public class PerimeterOfSquare {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        //Perimeter Of Square = 4a
+        //Perimeter Of Square = 4a (It is same as Perimeter Of Rhombus)
 
         int a , perimeter;
 
