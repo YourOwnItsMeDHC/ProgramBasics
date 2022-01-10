@@ -39,13 +39,15 @@ public class HCFOfTwoNumbers {
         }
 
 //        //Method - 2 (No need to find min max also)
-//        //To use method - 2 , uncomment 43 to 47 and comment 19 to 39
+//        //Also no ned to check hcf>i , because we are incrementing i++ , means it will be greater only
+//        //To use method - 2 , uncomment 44 to 48 and comment 19 to 39
 //        for(i=1; i<=num1 || i<=num2; i++){
 //            if(num1%i == 0 && num2%i == 0){
 //                hcf = i;
 //            }
 //        }
 
+        System.out.println();
         System.out.println("HCF of " + num1 + " and " + num2 + " is : " + hcf);
 
     }
