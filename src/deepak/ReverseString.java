@@ -11,9 +11,8 @@ public class ReverseString {
         System.out.print("Enter the String : ");
         String word = in.next().trim();
 
-        System.out.println(
-
-        );
+        System.out.println();
+        
         int length = word.length();
 
         String reverse = "" ;               // NULL , same as like we do in numbers , we initialize with 0 .
